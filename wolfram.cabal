@@ -5,14 +5,14 @@ cabal-version: 2.2
 -- see: https://github.com/sol/hpack
 
 name:           wolfram
-version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/githubuser/wolfram#readme>
-homepage:       https://github.com/githubuser/wolfram#readme
-bug-reports:    https://github.com/githubuser/wolfram/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2024 Author name here
-license:        BSD-3-Clause
+version:        1.0.0.0
+description:    Please see the README on GitHub at <https://github.com/TheoEwzZer/Wolfram#readme>
+homepage:       https://github.com/TheoEwzZer/Wolfram#readme
+bug-reports:    https://github.com/TheoEwzZer/Wolfram/issues
+author:         Théo Fabiano
+maintainer:     theo.fabiano@epitech.eu
+copyright:      2024 Théo Fabiano
+license:        MIT
 license-file:   LICENSE
 build-type:     Simple
 extra-source-files:
@@ -20,7 +20,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/wolfram
+  location: https://github.com/TheoEwzZer/Wolfram
 
 library
   exposed-modules:
